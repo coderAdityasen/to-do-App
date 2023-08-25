@@ -1,0 +1,12 @@
+li{
+  list-style: none;
+}
+
+
+input{
+  height: 1.5rem;
+}
+button{
+  margin: 0.5rem;
+  font-size: 1.5rem;
+}
