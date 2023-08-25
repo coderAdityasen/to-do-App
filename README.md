@@ -27,8 +27,8 @@ Make sure you have Node.js and npm installed.
 
 ### Running the App
 
-1. Start the development server: `npm start`
-2. Open your web browser and go to: `http://localhost:3000`
+1. Start the development server: `npm run dev`
+2. Open your web browser and go to: `http://localhost:5173`
 
 ## Components Overview
 
